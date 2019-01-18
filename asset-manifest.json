@@ -1,7 +1,7 @@
 {
-  "main.css": "/dictionary-app/static/css/main.ba12b43c.chunk.css",
-  "main.js": "/dictionary-app/static/js/main.8260d71d.chunk.js",
-  "main.js.map": "/dictionary-app/static/js/main.8260d71d.chunk.js.map",
+  "main.css": "/dictionary-app/static/css/main.c78e8f78.chunk.css",
+  "main.js": "/dictionary-app/static/js/main.9ef02fce.chunk.js",
+  "main.js.map": "/dictionary-app/static/js/main.9ef02fce.chunk.js.map",
   "static/css/1.66f54fff.chunk.css": "/dictionary-app/static/css/1.66f54fff.chunk.css",
   "static/js/1.6dc92c01.chunk.js": "/dictionary-app/static/js/1.6dc92c01.chunk.js",
   "static/js/1.6dc92c01.chunk.js.map": "/dictionary-app/static/js/1.6dc92c01.chunk.js.map",
@@ -9,8 +9,8 @@
   "runtime~main.js.map": "/dictionary-app/static/js/runtime~main.f2b796ab.js.map",
   "static/css/1.66f54fff.chunk.css.map": "/dictionary-app/static/css/1.66f54fff.chunk.css.map",
   "static/media/logo.svg": "/dictionary-app/static/media/logo.5d5d9eef.svg",
-  "static/css/main.ba12b43c.chunk.css.map": "/dictionary-app/static/css/main.ba12b43c.chunk.css.map",
+  "static/css/main.c78e8f78.chunk.css.map": "/dictionary-app/static/css/main.c78e8f78.chunk.css.map",
   "index.html": "/dictionary-app/index.html",
-  "precache-manifest.428124dac60a065c527ed36fb56c0b39.js": "/dictionary-app/precache-manifest.428124dac60a065c527ed36fb56c0b39.js",
+  "precache-manifest.fb273b341d9c6c5612709c706fe09788.js": "/dictionary-app/precache-manifest.fb273b341d9c6c5612709c706fe09788.js",
   "service-worker.js": "/dictionary-app/service-worker.js"
 }
