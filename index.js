@@ -21,25 +21,21 @@ function addEntry() {
       <div className="button-div">
         <button
           type="button"
-          className="close"
+          className="btn"
           onClick={() => {
             var element = document.getElementById(cell.id);
             element.parentNode.removeChild(element);
           }}
         >
-          ×
+          &#x274C;
         </button>
       </div>
       <div>
-        <div id={"error-div-" + cell.id} className="empyt-error">
-          <p id={"error-" + cell.id} />
-        </div>
-        <EditColumnClassTable tab_id={cell.id} />
+        <EditColumnClassTable />
       </div>
     </div>,
     document.getElementById(numTables)
   );
 }
 
-//ReactDOM.render(<Tooltip x={"ok"} />, document.getElementById("test"));
 serviceWorker.unregister();
